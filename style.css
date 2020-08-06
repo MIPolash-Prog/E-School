@@ -1,0 +1,68 @@
+.container{
+    background-color: honeydew;
+    width: 1447px;
+    height:347px;
+    font-size: 81.25%;
+    padding-top: 100px;
+    padding-left: 160px;
+    padding-right: 100px;
+   
+}
+.navbar-brand{
+    padding-left: 160px;
+    
+}
+.right-navbar-brand{
+    padding-right: 100px;
+}
+
+.intro{
+    background-color: green;
+    border: none;
+    border-radius:30px;
+    width:90px;
+    height: 30px;
+    color: whitesmoke;
+}
+.Document{
+    margin-top: 100px;
+    -ms-text-combine-vertical:left;
+    font-size: x-small;
+}
+
+.note1,.note2,.note3,.note4{
+    border: none;
+    border-radius: 10px;
+    box-shadow:10PX 30px 40px lightgrey;
+    height: 190px;
+    width: 180px;
+    padding: 65px;
+}
+
+.online{
+    margin-top: 50px;
+    color:rgb(29, 1, 54);
+    margin-bottom: 50px;
+}
+.card-footer{
+    border:none;
+    background-color: white;
+    font-size: 11px;
+    font-weight: 500;
+    font-family: serif;
+}
+.schedule{
+    color:green;
+}
+.learn{
+    color: rgb(255, 0, 0);
+    font-size: 16px;
+}
+.Testimonial{
+    text-align: center;
+}
+.container-two{
+        background-color: blue;
+}
+    
+
