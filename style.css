@@ -1,7 +1,7 @@
 .container-one{
     background-color: honeydew;
     width: 1000px;
-    height:400px;
+    height:370px;
     font-size: 81.25%;
     padding-top: 100px;
     padding-left: 160px;
@@ -77,7 +77,7 @@ h1{
 }
  
   .container-two {
-    height: 300px;
+    height: 250px;
     width: 1000px;
     background-color:rgb(39, 38, 38);
     position: relative;
