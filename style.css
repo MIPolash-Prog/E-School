@@ -1,6 +1,6 @@
 .container-one{
     background-color: honeydew;
-    width: 1000px;
+    width: 1400px;
     height:370px;
     font-size: 81.25%;
     padding-top: 100px;
@@ -79,7 +79,7 @@ h1{
  
   .container-two {
     height: 250px;
-    width: 1000px;
+    width: 1400px;
     background-color:rgb(39, 38, 38);
     position: relative;
     right:145px;
@@ -92,7 +92,7 @@ h1{
 footer{
   font-size: small;
   color: azure;
-  text-align: center;
+  text-align: left;
 
 }
 
